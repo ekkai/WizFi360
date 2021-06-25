@@ -1,1 +1,1 @@
-# wizfi360_OrangeBoard WiFi+ library
+# WizFi360 OrangeBoard WiFi+ library
