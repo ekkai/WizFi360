@@ -1,1 +1,1 @@
-# wizfi360_arduino_nepes
+# wizfi360_OrangeBoard WiFi+ library
