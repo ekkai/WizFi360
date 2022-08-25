@@ -66,16 +66,6 @@ void loop()
 
   // wait to let all the input command in the serial buffer
   delay(5);
-
-  // if the server's disconnected, stop the client
-  if (!client.connected()) {
-    Serial.println();
-    Serial.println("Disconnecting from server...");
-    client.stop();
-
-    // do nothing forevermore
-    while (true);
-  }
 }
 
 void printWifiStatus()
